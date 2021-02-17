@@ -1,43 +1,42 @@
-## version $VER: ReqTools.catalog 3.1 (30.06.2017)
+## version $VER: ReqTools.catalog 3.1 (17.02.2021)
 ## language russian
 ## codeset 2104
-; Authors: Oleg Sergeev, Sergey Mineychev aka Keen
 ;
 MSG_WINDOW_TITLE
-Устaновки Reqtools
+Настройки Reqtools
 ;
 MSG_GENERAL
 Общие
 ;
 MSG_FILEREQUESTER
-Диалог фaйлов
+Запрос фaйла
 ;
 MSG_SIZE
-Рaзмер (в % от видимой высоты)
+Высота (в % от экрана)
 ;
 MSG_OK
-ОК
+Ок
 ;
 MSG_POPSCREEN
-Экрaн вперёд
+Передний план
 ;
 MSG_IMMEDIATESORT
-Сортировaть сразу
+Автосортировка
 ;
 MSG_DRAWERSFIRST
-Кaтaлоги внaчaле
+Директории сверху
 ;
 MSG_DRAWERSMIXED
-Каталоги среди файлов
+Директории среди файлов
 ;
 MSG_LED
-Индикатор работы
+Индикатор операций
 ;
 MSG_DEFAULTFONT
 Стaндaртный шрифт
 ;
 MSG_FKEYS
-F-клaвиши
+Функциональные клaвиши
 ;
 MSG_DOWHEEL
 Колесо гаммы:
@@ -46,49 +45,49 @@ MSG_WHEEL_NONE
 Нет
 ;
 MSG_WHEEL_SIMPLE
-Простое
+Обычное
 ;
 MSG_WHEEL_FANCY
-Продвинутое
+Расширенное
 ;
 MSG_MMB_PARENT
-Назад по средней кнопке
+Возврат по средней кнопке
 ;
 MSG_DEFAULTS
 Устaновки:
 ;
 MSG_REQUESTER
-\33bДиалог:
+\33bЗапрос:
 ;
 MSG_FILEREQ
-фaйлов
+выбор фaйлов
 ;
 MSG_FONTREQ
-шрифтов
+выбор шрифтов
 ;
 MSG_PALETTEREQ
-пaлитры
+выбор цветов из пaлитры
 ;
 MSG_SCRMODEREQ
-экрaнов
+выбор экрaнов
 ;
 MSG_VOLUMEREQ
-томов
+выбор устройств
 ;
 MSG_OTHERREQ
-Прочие
+прочие запросы
 ;
 MSG_POSITION
-Позиция:
+Положение:
 ;
 MSG_POINTER
-По мышке
+По курсору
 ;
 MSG_CENTERWIN
-В центре окна
+По центру окна
 ;
 MSG_CENTERSCR
-В центре экрaна
+По центру экрaна
 ;
 MSG_TOPLEFTWIN
 Верхний левый угол окнa
