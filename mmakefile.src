@@ -2,7 +2,7 @@
 
 include $(SRCDIR)/config/aros.cfg
 
-CATALOGS := croatian czech finnish french german norwegian polish russian serbian swedish
+CATALOGS := croatian czech finnish french german norwegian polish russian serbian spanish swedish
 # other catalogs need update
 
 %build_catalogs mmake=workbench-prefs-reqtools-catalogs \
