@@ -1,4 +1,4 @@
-## version $VER: ReqTools.catalog 3.0 (30.06.2017)
+## version $VER: ReqTools.catalog 3.0 (06.08.2026)
 ## language dansk
 ## codeset 0
 ; Authors: Jesper Juul
@@ -41,6 +41,22 @@ Use function keys
 ;
 MSG_DOWHEEL
 Color wheel:
+;
+MSG_WHEEL_NONE
+Ingen
+; None
+;
+MSG_WHEEL_SIMPLE
+Enkel
+; Simple
+;
+MSG_WHEEL_FANCY
+Avanceret
+; Fancy
+;
+MSG_MMB_PARENT
+MMB giver forælder
+; MMB gives parent
 ;
 MSG_DEFAULTS
 Grundværdier
