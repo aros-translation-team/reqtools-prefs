@@ -1,0 +1,144 @@
+## version $VER: ReqTools.catalog 3.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_WINDOW_TITLE
+Preferències de ReqTools
+; ReqTools Preferences
+;
+MSG_GENERAL
+General
+; General
+;
+MSG_FILEREQUESTER
+Requeridor de fitxers
+; File Requester
+;
+MSG_SIZE
+Mida (% de l'alçada visible):
+; Size (% of visible height):
+;
+MSG_OK
+D'acord
+; Ok
+;
+MSG_POPSCREEN
+Portar la pantalla al davant
+; Pop screen to front
+;
+MSG_IMMEDIATESORT
+Ordenació immediata
+; Immediate sort
+;
+MSG_DRAWERSFIRST
+Mostrar primer els calaixos
+; Display drawers first
+;
+MSG_DRAWERSMIXED
+Barrejar fitxers i calaixos
+; Mix files and drawers
+;
+MSG_LED
+LED d'activitat del disc
+; Disk activity LED
+;
+MSG_DEFAULTFONT
+Utilitzar la font per defecte del sistema
+; Use system default font
+;
+MSG_FKEYS
+Utilitzar les tecles de funció
+; Use function keys
+;
+MSG_DOWHEEL
+Roda de colors:
+; Color wheel:
+;
+MSG_WHEEL_NONE
+Cap
+; None
+;
+MSG_WHEEL_SIMPLE
+Simple
+; Simple
+;
+MSG_WHEEL_FANCY
+Elaborada
+; Fancy
+;
+MSG_MMB_PARENT
+El botó central va al pare
+; MMB gives parent
+;
+MSG_DEFAULTS
+Per defecte
+; Defaults
+;
+MSG_REQUESTER
+\33bRequeridor:
+; \33bRequester:
+;
+MSG_FILEREQ
+Fitxer
+; File
+;
+MSG_FONTREQ
+Font
+; Font
+;
+MSG_PALETTEREQ
+Paleta
+; Palette
+;
+MSG_SCRMODEREQ
+Mode de pantalla
+; Screen Mode
+;
+MSG_VOLUMEREQ
+Volum
+; Volume
+;
+MSG_OTHERREQ
+Altres
+; Other
+;
+MSG_POSITION
+Posició:
+; Position:
+;
+MSG_POINTER
+Punter del ratolí
+; Mouse pointer
+;
+MSG_CENTERWIN
+Centrar a la finestra
+; Center in window
+;
+MSG_CENTERSCR
+Centrar a la pantalla
+; Center on screen
+;
+MSG_TOPLEFTWIN
+Part superior esquerra de la finestra
+; Top left of window
+;
+MSG_TOPLEFTSCR
+Part superior esquerra de la pantalla
+; Top left of screen
+;
+MSG_OFFSET
+\33bDesplaçament
+; \33bOffset
+;
+MSG_NR_OF_ENTRIES
+\33bNombre d'entrades visibles
+; \33bNumber of visible entries
+;
+MSG_MIN
+Mínim:
+; Minimum:
+;
+MSG_MAX
+Màxim:
+; Maximum:
+;

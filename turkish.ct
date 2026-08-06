@@ -1,0 +1,144 @@
+## version $VER: ReqTools.catalog 3.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_WINDOW_TITLE
+ReqTools Tercihleri
+; ReqTools Preferences
+;
+MSG_GENERAL
+Genel
+; General
+;
+MSG_FILEREQUESTER
+Dosya Ýstemi
+; File Requester
+;
+MSG_SIZE
+Boyut (görünür yüksekliðin %'si):
+; Size (% of visible height):
+;
+MSG_OK
+Tamam
+; Ok
+;
+MSG_POPSCREEN
+Ekraný öne getir
+; Pop screen to front
+;
+MSG_IMMEDIATESORT
+Anýnda sýrala
+; Immediate sort
+;
+MSG_DRAWERSFIRST
+Önce çekmeceleri göster
+; Display drawers first
+;
+MSG_DRAWERSMIXED
+Dosya ve çekmeceleri karýþtýr
+; Mix files and drawers
+;
+MSG_LED
+Disk etkinlik LED'i
+; Disk activity LED
+;
+MSG_DEFAULTFONT
+Sistem varsayýlan yazý tipini kullan
+; Use system default font
+;
+MSG_FKEYS
+Ýþlev tuþlarýný kullan
+; Use function keys
+;
+MSG_DOWHEEL
+Renk çarký:
+; Color wheel:
+;
+MSG_WHEEL_NONE
+Hiçbiri
+; None
+;
+MSG_WHEEL_SIMPLE
+Basit
+; Simple
+;
+MSG_WHEEL_FANCY
+Süslü
+; Fancy
+;
+MSG_MMB_PARENT
+Orta düðme üst dizini açar
+; MMB gives parent
+;
+MSG_DEFAULTS
+Varsayýlanlar
+; Defaults
+;
+MSG_REQUESTER
+\33bÝstem:
+; \33bRequester:
+;
+MSG_FILEREQ
+Dosya
+; File
+;
+MSG_FONTREQ
+Yazý Tipi
+; Font
+;
+MSG_PALETTEREQ
+Palet
+; Palette
+;
+MSG_SCRMODEREQ
+Ekran Modu
+; Screen Mode
+;
+MSG_VOLUMEREQ
+Veri Birimi
+; Volume
+;
+MSG_OTHERREQ
+Diðer
+; Other
+;
+MSG_POSITION
+Konum:
+; Position:
+;
+MSG_POINTER
+Fare iþaretçisi
+; Mouse pointer
+;
+MSG_CENTERWIN
+Pencerede ortala
+; Center in window
+;
+MSG_CENTERSCR
+Ekranda ortala
+; Center on screen
+;
+MSG_TOPLEFTWIN
+Pencerenin sol üstü
+; Top left of window
+;
+MSG_TOPLEFTSCR
+Ekranýn sol üstü
+; Top left of screen
+;
+MSG_OFFSET
+\33bKaydýrma
+; \33bOffset
+;
+MSG_NR_OF_ENTRIES
+\33bGörünür girdi sayýsý
+; \33bNumber of visible entries
+;
+MSG_MIN
+Minimum:
+; Minimum:
+;
+MSG_MAX
+Maksimum:
+; Maximum:
+;
